@@ -17,7 +17,5 @@ def main():
   pull.write_to_csv(participants)
   
   
-  print(course_numbers)
-  
 if __name__ == "__main__":
   main()
